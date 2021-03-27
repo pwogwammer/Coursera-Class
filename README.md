@@ -1,2 +1,2 @@
 # Coursera-Class
-Software Development Class John Hopkins University
+Software Development Class: John Hopkins University
